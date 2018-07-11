@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "id": "0Hof20000004CMHCA2",
+      "versionName": "Version 2.0",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "namespace": "LambOfGod",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
